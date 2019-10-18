@@ -1,2 +1,0 @@
-# ExpCtrl
-Created with CodeSandbox
